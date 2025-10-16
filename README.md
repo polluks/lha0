@@ -4,7 +4,7 @@
 # LHa for Unix for AROS
 
 LHa for Unix with a handful of hacks to make it behave more like the
-AmigaOS implementation by Stefan Boberg et. al. File permissions and
+AmigaOS implementation by Stefan Boberg et al. File permissions and
 comments are preserved, Amiga wildcards are supported and extraction
 target directory can be specified without using alien Unixdklsfjiss.
 
